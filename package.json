@@ -1,0 +1,21 @@
+{
+  "name": "clean-architecture-with-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "JHenriqueDev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "chance": "^1.1.8",
+    "jest": "^27.2.5"
+  }
+}
